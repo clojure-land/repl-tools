@@ -1,6 +1,6 @@
-# repl-tools
+# lambdaisland/repl-tools
 
-##
+Bits and pieces that might come in handy in a REPL based workflow.
 
 ## License
 
